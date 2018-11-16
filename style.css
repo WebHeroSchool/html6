@@ -1,13 +1,19 @@
 header {
-    color: red;
-    font-family: 'Oswald', sans-serif;
-    font-family: 'Merriweather', serif;
+    font-family: 'Noto Sans SC', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-family: 'Open Sans', sans-serif;
 }
 
 section {
-    font-family: 'Oswald', sans-serif;
-    font-family: 'Merriweather', serif;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Noto Sans SC', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Lato', sans-serif;
 }
